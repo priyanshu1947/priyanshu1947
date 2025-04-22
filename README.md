@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
 <h3 align="center">Software Developer Intern @Continental | Full-Stack Developer| M.Tech @ VIT Vellore</h3>
 
-- 🔭 I’m currently working on **Continental Automotive**
+- 🔭 I’m currently working in **Continental Automotive**
 
 - 🌱 I’m currently learning **SpringBooot**
 
